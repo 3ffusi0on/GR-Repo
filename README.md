@@ -1,17 +1,15 @@
 # GitHub Reference Repositories
 
-----
-
 GitHub Reference Repositories is a list of useful resources available on [GitHub.com](http://github.com)
 
-It contains repo of project i have been using or keep in a good place to be use later. It deals with any kind of ressources:
+It contains repo of project i have been using or keep in a good place to be use later. It deals with any kind of resources:
 * Android
 * Web
 * System administration
 * Random cool stuff
 * more...
 
-Feel free to propose your pull-request if you think your repository could find its place in this list.
+Feel free to submit your pull-request if you think your repository could find its place in this list.
 
                                /           /
                               /' .,,,,  ./

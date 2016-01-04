@@ -35,6 +35,9 @@ Feel free to submit your pull-request if you think your repository could find it
 **Ok Http**
 https://github.com/square/okhttp
 
+**Retrofit**
+https://github.com/square/retrofit
+
 **Butter Knife**
 https://github.com/JakeWharton/butterknife
 

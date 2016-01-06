@@ -1,6 +1,6 @@
 # GitHub Reference Repositories
 
-GitHub Reference Repositories is a list of useful resources available on [GitHub.com](http://github.com)
+GitHub Reference Repositories is a list of useful resources available on [GitHub](http://github.com)
 
 It contains repo of project i have been using or keep in a good place to be use later. It deals with any kind of resources:
 * Android
@@ -104,6 +104,11 @@ https://github.com/ajenti/ajenti
 
 **YouCompleteMe: a code-completion engine for Vim**
 https://github.com/Valloric/YouCompleteMe
+
+## Shell / Linux
+
+Bioinformatics one-liners
+https://github.com/stephenturner/oneliners
 
 ## Cool stuff
 

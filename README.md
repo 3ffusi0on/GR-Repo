@@ -108,7 +108,10 @@ https://github.com/Valloric/YouCompleteMe
 ## Shell / Linux
 
 Bioinformatics one-liners
-https://github.com/stephenturner/oneliners
+**https://github.com/stephenturner/oneliners**
+
+Ranger : file manager
+**https://github.com/hut/ranger**
 
 ## Cool stuff
 

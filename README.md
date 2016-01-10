@@ -56,6 +56,9 @@ https://github.com/afollestad/material-dialogs
 **Acra**
 https://github.com/ACRA/acra
 
+**Android testing samples**
+https://github.com/googlesamples/android-testing
+
 ## Web
 
 **Handsontable**

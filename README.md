@@ -110,11 +110,14 @@ https://github.com/Valloric/YouCompleteMe
 
 ## Shell / Linux
 
-Bioinformatics one-liners
+**Bioinformatics one-liners**
 **https://github.com/stephenturner/oneliners**
 
-Ranger : file manager
+**Ranger : file manager**
 **https://github.com/hut/ranger**
+
+**Netboot.xyz**
+https://github.com/antonym/netboot.xyz
 
 ## Cool stuff
 

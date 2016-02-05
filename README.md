@@ -105,6 +105,9 @@ https://github.com/jmoiron/humanize
 **Git stats**
 https://github.com/IonicaBizau/git-stats
 
+**GoGS : Go Git Services**
+https://github.com/gogits/gogs
+
 **Ajenti**
 https://github.com/ajenti/ajenti
 

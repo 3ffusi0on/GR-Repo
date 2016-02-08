@@ -156,3 +156,6 @@ https://github.com/wekan/wekan
 
 **Tron**
 https://github.com/bmrf/tron
+
+**Github cheat sheet**
+https://github.com/tiimgreen/github-cheat-sheet

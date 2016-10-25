@@ -6,6 +6,7 @@ It contains repo of project i have been using or keep in a good place to be use 
 * Android
 * Web
 * System administration
+* Education
 * Random cool stuff
 * more...
 
@@ -29,6 +30,17 @@ Feel free to submit your pull-request if you think your repository could find it
                            :                   :'
                           ; .         \--
                         :   \         ;
+
+## Education
+
+** Google Interview University **
+https://github.com/jwasham/google-interview-university
+
+** Programming Ebooks **
+https://github.com/HackathonHackers/programming-ebooks
+
+** Software Engineering Blogs **
+https://github.com/kilimchoi/engineering-blogs
 
 ## Android
 

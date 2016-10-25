@@ -33,14 +33,17 @@ Feel free to submit your pull-request if you think your repository could find it
 
 ## Education
 
-** Google Interview University **
+**Google Interview University**
 https://github.com/jwasham/google-interview-university
 
-** Programming Ebooks **
+**Programming Ebooks**
 https://github.com/HackathonHackers/programming-ebooks
 
-** Software Engineering Blogs **
+**Software Engineering Blogs**
 https://github.com/kilimchoi/engineering-blogs
+
+**Deep Learning Papers Reading Roadmap**
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 
 ## Android
 

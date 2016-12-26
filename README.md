@@ -179,3 +179,6 @@ https://github.com/bmrf/tron
 
 **Github cheat sheet**
 https://github.com/tiimgreen/github-cheat-sheet
+
+**Universe - OpenAI**
+https://github.com/openai/universe
